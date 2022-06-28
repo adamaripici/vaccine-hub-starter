@@ -29,4 +29,4 @@ class User {
     }
 }
 
-module.expoerts = User
+module.exports = User
